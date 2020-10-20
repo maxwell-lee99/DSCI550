@@ -1,0 +1,5 @@
+, Debate, Newspaper, Baseball
+Max,1,1,1
+Anna,1,1,0
+Cameron,1,0,0
+Sam,0,0,1
